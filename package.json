@@ -1,0 +1,27 @@
+{
+  "name": "@aprodan/cache",
+  "version": "1.0.0",
+  "description": "A simple in-memory cache for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --serial"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexprodan99/cache.git"
+  },
+  "keywords": [
+    "cache",
+    "storage",
+    "in-memory-cache"
+  ],
+  "author": "Alexandru Prodan <prodanalexandru580@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexprodan99/cache/issues"
+  },
+  "homepage": "https://github.com/alexprodan99/cache#readme",
+  "devDependencies": {
+    "ava": "^4.3.1"
+  }
+}
